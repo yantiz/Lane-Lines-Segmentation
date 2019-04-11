@@ -1,0 +1,15 @@
+[settings]
+seed = 0
+input_channels = 3
+output_channels = 2
+
+[data paths]
+data_dir =  ./data
+file_train = full_CNN_train.p 
+file_label = full_CNN_labels.p 
+output_dir = ./data
+
+[model paths]
+root_dir = ./experiments
+model_dir = ./experiments/base_model
+learning_rate_dir = ./experiments/learning_rate

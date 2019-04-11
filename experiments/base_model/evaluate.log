@@ -1,0 +1,13 @@
+2019-04-11 15:27:34,082:INFO: Creating the dataset...
+2019-04-11 15:27:34,098:INFO: - done.
+2019-04-11 15:28:28,463:INFO: Creating the dataset...
+2019-04-11 15:28:28,466:INFO: - done.
+2019-04-11 15:28:28,478:INFO: Starting evaluation
+2019-04-11 16:02:51,990:INFO: Creating the dataset...
+2019-04-11 16:02:51,996:INFO: - done.
+2019-04-11 16:02:52,010:INFO: Starting evaluation
+2019-04-11 16:03:30,921:INFO: - Eval metrics : accuracy: 0.981 ; loss: 0.071
+2019-04-11 16:09:55,269:INFO: Creating the dataset...
+2019-04-11 16:09:55,273:INFO: - done.
+2019-04-11 16:09:55,285:INFO: Starting evaluation
+2019-04-11 16:10:31,690:INFO: - Eval metrics : accuracy: 0.982 ; loss: 0.063

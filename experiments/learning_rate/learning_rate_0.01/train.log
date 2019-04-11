@@ -1,0 +1,7 @@
+2019-04-11 14:38:57,664:INFO: Loading the datasets...
+2019-04-11 14:38:57,668:INFO: - done.
+2019-04-11 14:38:57,682:INFO: Starting training for 1 epoch(s)
+2019-04-11 14:38:57,682:INFO: Epoch 1/1
+2019-04-11 14:50:10,467:INFO: - Train metrics: accuracy: 0.963 ; loss: 0.087
+2019-04-11 14:51:17,374:INFO: - Eval metrics : accuracy: 0.979 ; loss: 0.067
+2019-04-11 14:51:17,454:INFO: - Found lower validation loss
